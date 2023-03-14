@@ -7,11 +7,8 @@ cd ~/DataClass
 mkdir Pandas-Challenge # Create folder "Python-Challenge" on computer
 cd ~/DataClass/Pandas-Challenge # Go to that folder
 
-# Clone into computer
 git clone https://github.com/NoelleMtz/pandas-challenge.git
 
-
-# Add folder for assignment
 mkdir PyCitySchools
 
 git add . # Add file to your local repo and stages it for commit
